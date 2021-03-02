@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={minjae705})](https://solved.ac/{minjae705})
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minjae705)](https://solved.ac/minjae705)
 
 <!--
 **minjae705/minjae705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
