@@ -1,5 +1,6 @@
-### Hi there 👋
-
+## 누추한 곳에 귀하신 분이,,,
+------------------------------
+### 하찮은 제 티어 보고가세요
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minjae705)](https://solved.ac/minjae705)
 
 <!--
