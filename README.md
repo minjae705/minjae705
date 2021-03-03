@@ -1,6 +1,7 @@
 ## 누추한 곳에 귀하신 분이...
 ### 하찮은 제 티어 보고가세요
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minjae705)](https://solved.ac/minjae705)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminjae705)](https://hits.seeyoufarm.com) 
 
 <!--
 **minjae705/minjae705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
