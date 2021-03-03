@@ -1,8 +1,9 @@
 ## 누추한 곳에 귀하신 분이...
-### 하찮은 제 티어 보고가세요
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minjae705)](https://solved.ac/minjae705)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminjae705&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minjae705@gmail.com)](mailto:minjae705@gmail.com)
+
+### 하찮은 제 티어 보고가세요
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minjae705)](https://solved.ac/minjae705)
 
 <!--
 **minjae705/minjae705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
