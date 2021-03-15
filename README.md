@@ -1,5 +1,5 @@
 ## 누추한 곳에 귀하신 분이...
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminjae705&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminjae705&count_bg=%233DC8AE&title_bg=%23555555&icon=aerlingus.svg&icon_color=%236ADD7A&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minjae705@gmail.com)](mailto:minjae705@gmail.com)
 
 ### 하찮은 제 티어 보고가세요
