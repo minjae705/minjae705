@@ -2,7 +2,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminjae705&count_bg=%233DC8AE&title_bg=%23555555&icon=aerlingus.svg&icon_color=%236ADD7A&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minjae705@gmail.com)](mailto:minjae705@gmail.com)
 
-### 하찮은 제 티어 보고가세요
+### 하찮은 제 티어 보고가세요~!
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minjae705)](https://solved.ac/minjae705)
 
 <!--
