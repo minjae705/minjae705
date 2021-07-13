@@ -1,11 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminjae705&count_bg=%233DC8AE&title_bg=%23555555&icon=aerlingus.svg&icon_color=%236ADD7A&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minjae705@gmail.com)](mailto:minjae705@gmail.com)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCS8o7fFFRMV8U8R7nlhVFYA)](https://www.youtube.com/channel/UCS8o7fFFRMV8U8R7nlhVFYA)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-feda77?style=flat-squard&logo=Instagram&link=https://www.instagram.com/mydog_sando)](https://www.instagram.com/mydog_sando)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-f58529?style=flat-squard&logo=Instagram&link=https://www.instagram.com/mydog_sando)](https://www.instagram.com/mydog_sando)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-squard&logo=Instagram&link=https://www.instagram.com/mydog_sando)](https://www.instagram.com/mydog_sando)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-8134af?style=flat-squard&logo=Instagram&link=https://www.instagram.com/mydog_sando)](https://www.instagram.com/mydog_sando)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-515bd4?style=flat-squard&logo=Instagram&link=https://www.instagram.com/mydog_sando)](https://www.instagram.com/mydog_sando)
 <br>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minjae705)](https://solved.ac/minjae705)
 
